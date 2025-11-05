@@ -22,3 +22,11 @@ Heart rate patterns: Patients with lower maximum heart rate (thalach) tend to ha
 Feature correlations: cp, thalach, and slope are positively correlated with disease presence, while oldpeak, ca, and thal show negative correlations.
 
 Age and cholesterol: Majority of affected individuals fall between 45–60 years, with higher cholesterol levels indicating elevated risk.
+
+🧰 Tools & Technologies:
+
+Programming Language: Python
+
+Libraries: Pandas, NumPy, Matplotlib, Seaborn
+
+Techniques Used: Data Cleaning, Statistical Summary, Correlation Analysis, Visualization (Heatmaps, Boxplots, Countplots, Histograms)
